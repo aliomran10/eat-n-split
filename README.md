@@ -9,7 +9,7 @@ This project was built using [Create React App](https://github.com/facebook/crea
 ## 🔗 Live Demo
 
 Try it out here:  
-[**Bill Splitter App on Netlify**](https://your-site-name.netlify.app)
+[**Bill Splitter App on Netlify**](https://sharebilll.netlify.app/)
 
 ---
 
